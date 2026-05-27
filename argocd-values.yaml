@@ -10,3 +10,5 @@ server:
   # In production, TLS would be configured here via cert-manager
   extraArgs:
     - --insecure # Required if SSL terminates at the NGINX ingress level
+
+    
