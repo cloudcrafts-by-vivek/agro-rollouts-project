@@ -1,5 +1,0 @@
-image:
-  repository: agro-rollout-app
-  tag: v2.0.0
-  pullPolicy: Never # Crucial: Forces Minikube to use local images
-replicaCount: 3
