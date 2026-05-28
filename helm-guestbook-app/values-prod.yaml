@@ -1,0 +1,12 @@
+# Default values for guestbook-ui.
+
+replicaCount: 10
+revisionHistoryLimit: 5
+
+image:
+  repository: gcr.io/google-samples/gb-frontend
+  tag: "v4"
+
+service:
+  port: 80
+  targetPort: 80
