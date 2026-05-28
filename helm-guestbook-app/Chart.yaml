@@ -1,0 +1,6 @@
+apiVersion: v2
+name: guestbook-ui-helm
+description: A Helm chart for the Guestbook UI Kubernetes application
+type: application
+version: 0.1.0
+appVersion: "v5"
