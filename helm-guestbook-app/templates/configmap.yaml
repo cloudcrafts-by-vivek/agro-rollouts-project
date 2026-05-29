@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: test-config
-data:
-  key: "this will be deleted to test pruning"
