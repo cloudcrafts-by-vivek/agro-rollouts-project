@@ -1,6 +1,6 @@
 # Default values for guestbook-ui.
 
-replicaCount: 10
+replicaCount: 3
 revisionHistoryLimit: 5
 
 image:
